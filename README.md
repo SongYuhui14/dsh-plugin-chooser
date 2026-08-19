@@ -2,6 +2,8 @@
 
 > 📦 仓库地址：https://github.com/SongYuhui14/dsh-plugin-chooser
 
+![演示](docs-demo.png)
+
 DeepSeek Harness (DSH) 插件：**解决"插件太多不知道选哪个"的选择瘫痪**。
 
 ## 解决什么问题
