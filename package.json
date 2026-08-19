@@ -1,0 +1,36 @@
+{
+  "name": "dsh-plugin-chooser",
+  "version": "0.1.0",
+  "description": "DSH plugin: recommend plugins by multi-dimensional scoring (security/quality/activity/compat/ecosystem) to solve plugin choice paralysis. 插件评分选择顾问：多维评分推荐最值得安装的插件。",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": {
+      "default": "./lib/index.js"
+    },
+    "./score": {
+      "default": "./lib/score.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib/index.js",
+    "lib/score.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "recommend",
+    "scoring",
+    "ranking",
+    "choose",
+    "选择"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "@deepseek-ai/cordis": "^4.0.1"
+  }
+}
