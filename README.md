@@ -61,6 +61,16 @@ lib/score.js   — 评分引擎（5 维评分模型 + 排序 + 推荐格式）
 lib/index.js   — 插件入口（读取数据 + 注册工具/命令）
 ```
 
+
+## 相关作品
+
+- [crypto-evaluation-assistant](https://github.com/SongYuhui14/crypto-evaluation-assistant) — 密评检测辅助
+- [ai-security-assistant](https://github.com/SongYuhui14/ai-security-assistant) — AI 安全评估
+- [dsh-plugin-conflict-advisor](https://github.com/SongYuhui14/dsh-plugin-conflict-advisor) — 插件冲突顾问
+- [dsh-plugin-compat-checker](https://github.com/SongYuhui14/dsh-plugin-compat-checker) — 插件兼容测试
+- [dsh-code-vetter](https://github.com/SongYuhui14/dsh-code-vetter) — AI 代码安全审查
+- [dsh-publisher](https://github.com/SongYuhui14/dsh-publisher) — 一键发布助手
+
 ## 许可
 
 MIT
